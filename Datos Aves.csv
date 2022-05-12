@@ -1,0 +1,63 @@
+Categorías de distribución específicas,Cant. especies 
+,
+Total especies de aves en Chile.,586
+,
+(A) Accidental: Especie de registro(s) errante(s) en Chile.,88
+(E) Endémica: Especie endémica de Chile.,13
+(I) Introducida: Especie introducida a Chile por el ser humano.,7
+(H) Hipotética: Especie de registro(s) no confirmado(s) en Chile.,3
+,
+,
+Categorías por grado de extinsión,
+,
+(EX) extinto,
+(EW) extinto en estado silvestre (sólo en cautividad),1
+(CR) en peligro crítico,6
+(EN) en peligro,9
+(VU) vulnerable,22
+(NT) próximo a la amenaza,34
+(LC) preocupación menor,511
+(DD) datos insuficientes,3
+No evaluado,0
+,586
+Categoría por Orden,
+,
+Rheiformes,1
+Tinamiformes,6
+Anseriformes,35
+Galliformes,2
+Podicipediformes,5
+Phoenicopteriformes,3
+Sphenisciformes,10
+Procellariiformes,75
+Phaethontiformes,3
+Ciconiiformes,2
+Suliformes,14
+Pelecaniformes,22
+Accipitriformes,17
+Gruiformes,15
+Charadriiformes,106
+Columbiformes,12
+Cuculiformes,4
+Strigiformes,7
+Caprimulgiformes,7
+Apodiformes,16
+Coraciiformes,2
+Piciformes,4
+Falconiformes,10
+Psittaciformes,9
+Passeriformes,199
+Total,586
+,
+Categorías según región/zonas,
+,
+Zona Norte (Arica a Vallenar),221
+Zona Central (Vallenar a Concepción) ,202
+Zona Sur (Concepción a Puerto Montt ) ,192
+Zona Austral (Puerto Montt al Cabo de Hornos),162
+Antártida y aguas subantárticas,22
+Isla de Pascua,22
+Archipiélago de Juan F. (Is. Robinson Crusoe y Alejandro Selkirk),36
+Isla Sala y Gómez,13
+Islas San Félix y San Ambrosio,8
+Total,878
